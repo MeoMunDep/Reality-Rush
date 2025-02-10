@@ -9,6 +9,7 @@
   "howManyTapMultiplierUpgrade": 5,
   "howManyBoardMultiplierUpgrade": 5,
   "howManyEnergyRegenSpeedUpgrade": 5,
+  "howManySweepStakeTicketYouWantToBuy": 5,
   "howManyUpgradeCityServicesMultiplier": 5,
   "tappingCount": [10000, 50000],
   "doTasks": true,
