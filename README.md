@@ -45,8 +45,8 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
 {
   "limit": 100,
   "countdown": 300,
-  "country_time": "en-US",
   "delayEachAccount": [1, 1],
+
   "autoUpgradeBuildings": false,
   "maximumBuildingPrice": 500000000,
   "howManyEnergyLimitUpgrade": 5,
@@ -54,12 +54,14 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
   "howManyBoardMultiplierUpgrade": 5,
   "howManyEnergyRegenSpeedUpgrade": 5,
   "howManyUpgradeCityServicesMultiplier": 5,
+
   "tappingCount": [10000, 50000],
   "doTasks": true,
   "autoArrange": true,
   "watchAds": true,
   "autoMergeBuilding": true,
   "claimTokens": false,
+
   "stakingPrize": {
     "30 USDT – Instant Crypto Boost": 1,
     "5 TON – Boost your journey": 1,
@@ -109,7 +111,7 @@ socks5://user:pass@host:port
 💡 Usage:
 
 > You need to `cd` to the file after extract it
-> To run the bot, use the following command: `cd "reality rush-main/reality rush"; node meomundep`
+> To run the bot, use the following command: `cd "reality rush"; node meomundep`
 
 - **Updates Channel:** [View channel](https://t.me/KeoAirDropFreeNee)
 - **YouTube Channel:** [Watch here](https://www.youtube.com/@keoairdropfreene)
