@@ -71,8 +71,8 @@ create_default_configs() {
 {
   "limit": 100,
   "countdown": 300,
-  "country_time": "en-US",
   "delayEachAccount": [1, 1],
+
   "maximumBuildingPrice": 500000000,
   "howManyEnergyLimitUpgrade": 5,
   "howManyTapMultiplierUpgrade": 5,
@@ -80,6 +80,7 @@ create_default_configs() {
   "howManyEnergyRegenSpeedUpgrade": 5,
   "howManySweepStakeTicketYouWantToBuy": 1,
   "howManyUpgradeCityServicesMultiplier": 5,
+
   "tappingCount": [10000, 50000],
   "doTasks": true,
   "watchAds": true,
@@ -87,6 +88,7 @@ create_default_configs() {
   "claimTokens": false,
   "autoMergeBuilding": true,
   "autoUpgradeBuildings": true,
+
   "stakingPrize": {
     "30 USDT – Instant Crypto Boost": 1,
     "5 TON – Boost your journey": 1,
@@ -128,7 +130,7 @@ print_green "Configuration files have been checked."
 
 print_yellow "Checking dependencies..."
 cd "$MODULES_DIR"
-npm install user-agents axios colors https-proxy-agent socks-proxy-agent crypto-js 
+npm install user-agents axios meo-forkcy-colors https-proxy-agent socks-proxy-agent 
 cd - > /dev/null
 print_green "Dependencies installation completed!"
 
